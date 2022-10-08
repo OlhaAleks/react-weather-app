@@ -7,7 +7,8 @@ export default function App() {
       <h1>Weather App</h1>
       <WeatherSearch />
       <div>
-        <a href="https://github.com/OlhaAleks/react-weather-app">GitHub</a>
+        <br />
+        <a href="https://github.com/OlhaAleks/react-weather-app">GitHub </a>project by Olha Aleksandrova
       </div>
     </div>
   );
